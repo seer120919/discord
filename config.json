@@ -1,4 +1,5 @@
 {
   "prefix": "!",
-  "robux_per_krw": 8.0
+  "robux_per_krw": 8.0,
+  "robux_per_usd": 0.006
 }
