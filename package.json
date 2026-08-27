@@ -1,7 +1,7 @@
 {
   "name": "robux-discord-bot",
   "version": "1.0.0",
-  "description": "Robux exchange rate calculator bot for Discord",
+  "description": "Robux exchange rate calculator bot for Discord (KRW & USD)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
